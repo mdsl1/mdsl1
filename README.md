@@ -5,13 +5,10 @@
   <p>🏙️ I'm from São Paulo.</p>
   <p>📘 I'm currently studying Multiplatform Software Development (DSM) at Fatec.</p>
   <p>🌱 I’m currently learning C, HTML, CSS, Javascript, Python, NoCode AI, UX design.</p>
-  <div style="display:inline_block; align-itens: center";>
-    <p> To see my portfolio, click here:</p>
-    <a href="#"><img src="https://img.shields.io/badge/Portfolio-01403E?style=flat&logo=activitypub&logoColor=white"></a>
-  </div>
+  <p>🔭 To see my portfolio, click here: &nbsp; <a href="#"><img src="https://img.shields.io/badge/Portfolio-009c5b?style=flat&logo=activitypub&logoColor=white"></a></p>
 </section>
 <section>
-  <h2>🔭 You can find me on</h2>
+  <h2>👀 You can find me on</h2>
   <a href="mailto:marcos.d.s.lima@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/marcos-daniel-da-silva-lima-091b11260"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
