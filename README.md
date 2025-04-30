@@ -5,7 +5,7 @@
   <p>🏙️ I'm from São Paulo.</p>
   <p>📘 I'm currently studying Multiplatform Software Development (DSM) at Fatec.</p>
   <p>🌱 I’m currently learning C, HTML, CSS, Javascript, Python, NoCode AI, UX design.</p>
-  <p>🔭 To see my portfolio, click here: &nbsp; <a href="https://mdsl1.github.io/Portfolio-FrontEnd/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-009c5b?style=flat&logo=activitypub&logoColor=white"></a></p>
+  <p>🔭 To see my portfolio, click here: &nbsp; <a href="https://mdsl1.github.io/portfolio-pessoal/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-009c5b?style=flat&logo=activitypub&logoColor=white"></a></p>
 </section>
 <section>
   <h2>👀 You can find me on</h2>
