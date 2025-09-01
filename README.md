@@ -1,10 +1,10 @@
 <header><h1>👋 Hi there! I'm Marcos Daniel.</h1> </header>
 <section>
   <header><h2>🧑🏽‍💻 About Me</h2></header>
-  <p>⏳ I'm 21 years old.</p>
+  <p>⏳ I'm 22 years old.</p>
   <p>🏙️ I'm from São Paulo.</p>
   <p>📘 I'm currently studying Multiplatform Software Development (DSM) at Fatec.</p>
-  <p>🌱 I’m currently learning C, HTML, CSS, Javascript, Python, NoCode AI, UX design.</p>
+  <p>🌱 I’m currently learning React, Node.js and Express.js, Python, NoCode AI, UX design.</p>
   <p>🔭 To see my portfolio, click here: &nbsp; <a href="https://mdsl1.github.io/portfolio-pessoal/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-009c5b?style=flat&logo=activitypub&logoColor=white"></a></p>
 </section>
 <section>
